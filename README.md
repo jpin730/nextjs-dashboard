@@ -1,6 +1,6 @@
-# Next.js App Router Course
+# Next.js Dashboard
 
-This is the starter app for the Next.js App Router Course. It contains a dashboard application to demonstrate the features of Next.js.
+This is a dashboard application to demonstrate the features of Next.js.
 
 For more information, see the [course](https://nextjs.org/learn) on the Next.js Website.
 
@@ -9,7 +9,7 @@ For more information, see the [course](https://nextjs.org/learn) on the Next.js 
 First, install the dependencies:
 
 ```bash
-pnpm run dev
+pnpm install
 ```
 
 Then, run the development server:
