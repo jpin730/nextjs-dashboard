@@ -1,4 +1,10 @@
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+import '@/app/ui/global.css'
+
+interface RootLayoutProps {
+  children: React.ReactNode
+}
+
+export default function RootLayout({ children }: Readonly<RootLayoutProps>) {
   return (
     <html lang="en">
       <body>{children}</body>
