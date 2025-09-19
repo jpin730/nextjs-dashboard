@@ -6,5 +6,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "always",
     "source.organizeImports": "always"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
   }
 }
