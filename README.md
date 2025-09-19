@@ -1,6 +1,6 @@
 # Next.js Dashboard
 
-This is a dashboard application to demonstrate the features of Next.js.
+This demonstrates the features of Next.js 15 with a financial dashboard that has a public home page, a login page, dashboard pages that are protected by authentication, and the ability for users to add, edit, and delete invoices.
 
 For more information, see the [course](https://nextjs.org/learn) on the Next.js Website.
 
