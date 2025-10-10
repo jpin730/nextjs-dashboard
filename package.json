@@ -48,8 +48,8 @@
     ]
   },
   "engines": {
-    "node": ">=22.17",
-    "pnpm": ">=10.17"
+    "node": "^22",
+    "pnpm": "^10.17"
   },
   "lint-staged": {
     "**/*.{ts,tsx}": "npx eslint --fix",
