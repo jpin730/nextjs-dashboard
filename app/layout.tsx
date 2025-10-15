@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Acme Dashboard',
   },
   description: 'The official Next.js Course Dashboard, built with App Router.',
-  metadataBase: new URL('https://nextjs-dashboard-jaime-pinedas-projects.vercel.app'),
+  metadataBase: new URL('https://nextjs-dashboard-ruddy-omega-u19zme58mk.vercel.app'),
 }
 
 interface Props {
